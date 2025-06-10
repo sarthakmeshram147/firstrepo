@@ -1,0 +1,13 @@
+#### ✅ `CONTRIBUTING.md`
+- Example:
+```md
+# Contributing Guidelines
+
+## How to Contribute
+
+1. Fork this repository.
+2. Clone the forked repo.
+3. Create a new branch: `git checkout -b your-branch-name`
+4. Make your changes.
+5. Commit and push.
+6. Open a Pull Request.
